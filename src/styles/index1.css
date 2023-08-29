@@ -22,11 +22,7 @@ header >h1 {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-}
-
-image {
-    display: flex;
-    justify-items: left;
+    
 }
 
 
@@ -51,3 +47,12 @@ image {
 
     margin: 0px 17px;
 }
+
+.imageHero{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    
+
+}
+     
